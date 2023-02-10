@@ -1319,8 +1319,7 @@
     "Recaudacion":"$211,343,479"
  },
  {
-    "Titulo":"Bernardo y Bianca al rescate",
-   
+    "Titulo":"Bernardo y Bianca al rescate", "img":"https://static.wikia.nocookie.net/doblaje/images/f/f4/Bernardo_y_Bianca_en_Cangurolandia.jpg/revision/latest?cb=20160611165430&path-prefix=es"
     "Pais":"Estados Unidos",
     "Estreno":"16 de noviembre de 1990(33)",
     "Duracion":"77 minutos",
@@ -1359,6 +1358,7 @@
  },
  {
     "Titulo":"La bella y la Bestia",
+   "img":"https://revistaq.mx/wp-content/uploads/2021/11/55007413990_3.jpg"
     "Pais":"Estados Unidos",
     "Estreno":"13 de noviembre de 1991",
     "Duracion":"84 minutos",
@@ -1395,6 +1395,7 @@
  },
  {
     "Titulo":"Aladdin",
+"img":"https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/12/aladdin.jpg?itok=4qtuDDNB"
     "Pais":"Estados Unidos",
     "Estreno":"25 de noviembre de 1992(31 años)",
     "Genero":[
@@ -1433,6 +1434,7 @@
 },
 {
     "Titulo":"El Rey Leon",
+  "img":"https://play-lh.googleusercontent.com/yqMqHTkHzM9QLZIEAmeSu7bM_NEb-CtAixsCWVkiwcQtUvHbDks_lDO9NBu0Red9VFCqOA"
     "Pais":"Estados Unidos",
     "Estreno":"24 de junio de 1994",
     "Genero":[	
@@ -1472,7 +1474,7 @@
      "Recaudacion":"968.483.777USD"
 },
 {
-    "Titulo":"El rey león II: El reino de Simba",
+    "Titulo":"El rey león II: El reino de Simba", "img":"https://static.wikia.nocookie.net/doblaje/images/8/8e/El_Rey_Le%C3%B3n_2.jpg/revision/latest?cb=20200717185153&path-prefix=es"
     "Pais":"Estados Unidos",
     "Estreno":"27 de octubre de 1998(25)",
     "Genero":[
@@ -1502,6 +1504,7 @@
 },
 {
     "Titulo":"El rey león 3: Hakuna Matata",
+  "img":"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/041fedbb1c0c26644c2055004646572f9d731497240898e44d1b0c1eb4a1e01d._RI_V_TTW_.jpg"
     "Pais":"Estados Unidos",
     "Estreno":"9 de febrero de 2004(21 años)",
     "Genero":[
@@ -1536,6 +1539,7 @@
 },
 {
     "Titulo":"Pocahontas",
+  "img":"https://resizing.flixster.com/SbLJ-cJ1jjVLlG4bDK6-bBC-wPY=/206x305/v2/https://flxt.tmsimg.com/assets/p16835_p_v8_ad.jpg"
     "Pais":"Estados Unidos",
     "Estreno":"23 de junio de 1995(28 años)",
     "Genero":[
@@ -1579,6 +1583,7 @@
 },
 {
     "Titulo":"El jorobado de Notre Dame",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5CA6CB22D99A6C39605D0D0C3AD33D1F0B7D7639816D680D2C6545CA954EB0BF/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"21 de junio de 1996(27 años)",
     "Genero":[
@@ -1619,6 +1624,7 @@
 },
 {
     "Titulo":"Hercules",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B5C863709ECAF18879B3B60D229F26597E68D8A1F903BA408793ED729CF9855A/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"13 de junio de 1997(26 años)",
     "Genero":[
@@ -1666,6 +1672,7 @@
 },
 {
     "Titulo":"Mulan",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DA6E58289D707B183B5999B68767A930D418AB2A35E90A5E4247586179A48917/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"5 de junio de 1998(25 años)",
     "Genero":[
@@ -1710,6 +1717,7 @@
 },
 {
     "Titulo":"Tarzan",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BE3363A6033C003B732E1180723A7B70DD4B06215C57214A90B735617FCC32A0/scale?width=506&aspectRatio=2.00&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"18 de junio de 1999(24 años)",
     "Genero":[
@@ -1750,6 +1758,7 @@
 },
 {
     "Titulo":"Fantasía 2000",
+  "img":"https://sostenido11.institutomusicaonline.com/wp-content/uploads/2021/02/Fantasia-2000.jpg"
     "Pais":"Estados Unidos",
     "Estreno":"17 de diciembre de 1999(24 años)",
     "Genero":[
@@ -1802,6 +1811,7 @@
 },
 {
     "Titulo":"Dinosaurio",
+  "img":"https://m.media-amazon.com/images/M/MV5BZWQ1NTZjMjUtODNmZS00NTVhLWFhM2ItNWZiOTdjMzdhZTY2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
     "Pais":"Estados Unidos",
     "Estreno":"19 de mayo de 2000(23 años)",
     "Genero":["Musical",
@@ -1837,6 +1847,7 @@
 },
 {
     "Titulo":"Las locuras del emperador",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0697A211EB151508C3569B69A5EAC569FC715B6601E1CA637D95A7E511B6DF7C/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"18 de enero de 2001(22 años)",
     "Genero":[
@@ -1871,6 +1882,7 @@
 },
 {
     "Titulo":"tlantis: El imperio perdido",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8AEB34265716982EB034F1CF1498F8203C3B93EEDEBCA87B8F394883FD6A212B/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"12 de julio de 2001(22 años)",
     "Genero":[
@@ -1907,6 +1919,7 @@
 },
 {
     "Titulo":"Lilo y Stitch",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2A47A7EA4264270E4C34C075CAACFA210D21399CFE22776E10B49D8BB27C7A7F/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"4 de julio de 2002(21 años)",
     "Genero":[
@@ -1943,6 +1956,7 @@
 },
 {
     "Titulo":"El planeta del tesoro",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0C3471FA06F8B47E3F16F5AEBB25E31102894301C888E9C392CF18B0A399426B/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"12 de diciembre de 2002(21 años)",
     "Genero":[
@@ -1982,6 +1996,7 @@
 },
 {
     "Titulo":"Tierra de osos",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B600DA229176F9EEED82865877BB5B493A6FC128396D4BD540226AE22BF2D5DA/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"25 de diciembre de 2003(20 años)",
     "Genero":[
@@ -2050,6 +2065,7 @@
 },
 {
     "Titulo":"Vacas vaqueras",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/84E3CE4FBF818898E2C1D59EF0DF22B7A328B834AF8C97D2836E10D1D7DB466B/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"2 de abril de 2004(19 años)",
     "Genero":[
@@ -2101,6 +2117,7 @@
 },
 {
     "Titulo":"Chicken Little",
+  "img":"https://lumiere-a.akamaihd.net/v1/images/p_chickenlittle_19875_fb03d7b2.jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"22 de noviembre de 2005(18 años)",
     "Genero":[
@@ -2142,6 +2159,7 @@
 },
 {
     "Titulo":"La familia del futuro",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/52CF05DD9AF8388CE88AB51A6142320745F65DD041D6B043728722785F7BF603/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"30 de marzo de 2007(16 años)",
     "Genero":[
@@ -2184,6 +2202,7 @@
 },
 {
     "Titulo":"Bolt: Un perro fuera de serie",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5203F8B6CE5603AF90BA561783C2D08B46CFF747F122FDAAD7C10695FD645A00/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"25 de diciembre de 2008(15 años)",
     "Genero":[
@@ -2217,6 +2236,7 @@
 },
 {
     "Titulo":"La princesa y el sapo",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/12141C1990D395E369205260B4E172FCD0AA6202530D070A858685160C466A88/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"24 de diciembre de 2009(14 años)",
     "Genero":[
@@ -2256,6 +2276,7 @@
 },
 {
     "Titulo":"Enredados",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1624F54D7B34C5D455F33EBDDE3144A4582695DD9722C323A41811ADBEF7C714/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"20 de enero de 2011(12 años)",
     "Genero":[
@@ -2295,6 +2316,7 @@
 },
 {
     "Titulo":"Winnie the Pooh",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D7C76D18E0AF545A5B6D77E6E8680D8807FEEC6F8F75B47811E738E3E8870609/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"5 de mayo de 2011(12 años)",
     "Genero":"Animación",
@@ -2325,6 +2347,7 @@
 },
 {
     "Titulo":"Ralph, el Demoledor",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/393297A1044DE1327ED7E5071932329BCE55C13084C107B62B1BF51BFF48C72D/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"25 de diciembre de 2012(11 años)",
     "Genero":[
@@ -2388,6 +2411,7 @@
 },
 {
     "Titulo":"Grandes héroes",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4AD1CBF2028C884896DCDA235F0AFD45C65CD69C935B6E459D473A864C34A291/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"25 de diciembre de 2014(9 años)",
     "Genero":[
@@ -2431,6 +2455,7 @@
 },
 {
     "Titulo":"Zootopia",
+  "img":"https://lumiere-a.akamaihd.net/v1/images/zootopia_7a25da70.jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"17 de marzo de 2016(7 años)",
     "Genero":[
@@ -2468,6 +2493,7 @@
 },
 {
     "Titulo":"Moana: Un mar de aventuras",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/72A063D9313DBC503D34325055E9840F34EC0EFF27B3D4446AC19BB5D7B242C5/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"23 de noviembre de 2016(7 años)",
     "Genero":[
@@ -2503,6 +2529,7 @@
 },
 {
     "Titulo":"Wifi Ralph",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5DBA759871C2B76230569546EBCC741950319CBA8FB3BA7355A1A7E7672E94D0/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"21 de noviembre de 2018(5 años)",
     "Genero":[
@@ -2538,6 +2565,7 @@
 },
 {
     "Titulo":"Frozen II",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/858B8F5E00BCE89CCFD4A56EC74B5F49DE182E4450FFBE2A94F9D94BE30BCF4F/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"21 de noviembre de 2019(4 años)",
     "Genero":[
@@ -2566,6 +2594,7 @@
 },
 {
     "Titulo":"Raya y el último dragón",
+  "img":"https://lumiere-a.akamaihd.net/v1/images/poster_sin_cine_ad89a921.jpeg?region=0%2C0%2C540%2C775"
     "Pais":"Estados Unidos",
     "Estreno":"5 de marzo de 2021(2 años)",
     "Genero":[
@@ -2606,6 +2635,7 @@
 },
 {
     "Titulo":"Encanto",
+  "img":"https://lumiere-a.akamaihd.net/v1/images/encanto_ka_las_pay1_92ad7410.jpeg?region=0%2C0%2C1080%2C1350"
     "Pais":"Estados Unidos",
     "Estreno":"24 de noviembre de 2021(2 años)",
     "Genero":[
@@ -2651,6 +2681,7 @@
 },
 {
     "Titulo":"Un Mundo Extraño",
+  "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/51A712A15A4B648FC22C356EF7A52D4FDC7B0601C5B3163AC9D4FCE1B0AD1AB1/scale?width=1200&aspectRatio=1.78&format=jpeg"
     "Pais":"Estados Unidos",
     "Estreno":"23 de noviembre de 2022(3 meses)",
     "Genero":[
@@ -2678,6 +2709,7 @@
 },
 {
     "Titulo":"Wish",
+  "img":"https://cdn.fandomwire.com/wp-content/uploads/2022/09/10152609/Fans-Blast-Unoriginal-Design-of-the-Protagonist-in-Disneys-New-Animated-Movie-Wish.jpg"
     "Pais":"Estados Unidos",
     "Estreno":"22 de noviembre de 2023",
     "Genero":[
