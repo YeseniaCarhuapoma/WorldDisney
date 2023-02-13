@@ -1,25 +1,82 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8">
+  <title>WORLD DISNEY</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="icon" href="img/+disney.png">
-  <title>Intro</title>
-  <link rel="stylesheet" href="assets/CSS/style.css">
+  <link rel="icon" href="asset/img/icono.png">
+  <link rel="stylesheet" href="assets/CSS/style3.css" />
+  <!-- Icons -->
+  <script src="https://kit.fontawesome.com/971ef92afb.js" crossorigin="anonymous"></script>
+  <!-- Modelo de la letra que use -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&family=Open+Sans:wght@300;400;600;700&display=swap"
+    rel="stylesheet">
 </head>
 
 <body>
-  <video width="1025" height="1020" controls autoplay muted>
-    <source src="assets/introDisney.mp4" type="video/mp4">
-    Tu navegador no soporta el formato de video
-  </video>
-  <br>
-  <br>
-  <a id="boton" class="btn-continuar" href="Index2.html">Continuar</a>
-  <script src="assets/JS/script.js"></script>
-</body>
+  <header class="header">
+    <nav class="nav">
+      <img class="nav__logo" src="asset/img/logo.png">
+      <i id="menuBurguer" class="fas fa-bars"></i>
+      <ul class="menu__dropdown disable">
+        <li class="menu__list">
+          <a href="#home" class="menu__item">Animacion</a>
+        </li>
+        <li class="menu__list">
+          <a href="#statistics" class="menu__item">Estadistica</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section class="container" id="home">
+      <section class="menuBar">
+        <section class="search">
+          <input id="searchFilm" type="text" class="menuBar__search" placeholder="Buscar animacion">
+        </section>
+        <section class="filter">
+          <select id="filterByDirectorProducer" class="filter__comboBox">
+            <option value="all" disabled selected>Director/Productor</option>
+            <option value="all">Todas</option>
+          </select>
+        </section>
+        <section class="filter">
+          <select id="sortBy" class="filter__comboBox">
+            <option value="title" disabled selected>Orden por</option>
+            <option value="title">Nombre</option>
+            <option value="rt_score">Clasificacion</option>
+            <option value="release_date">Estreno</option>
+          </select>
+          <i id="orderData" class="fas fa-sort-amount-down-alt"></i>
+        </section>
+        <section id="filmsCounter" class="menuBar__showing">Demostracion</section>
+      </section>
+      <section class="container__films">
+      </section>
+    </section>
 
+  </main>
+  <footer class="footer">
+    <section>
+      &copy; Todos los derechos reservados 2023
+    </section>
+    <section class="footer_item">
+      <a class="footer_link" href="https://web.facebook.com/DisneyStudiosLA/?locale=es_LA&_rdc=1&_rdr" target="_blank">
+        <i class="fab fa-facebook-square"></i>
+      </a>
+      <a class="footer_link" href="https://www.instagram.com/waltdisneyworld/?hl=es" target="_blank">
+        <i class="fab fa-instagram"></i>
+      </a>
+      <a class="footer_link" href="https://www.youtube.com/channel/UCq3zaHCaZtb3TtNwwz0PK2w" target="_blank">
+        <i class="fab fa-youtube-square"></i>
+      </a>
+    </section>
+  </footer>
+  <!-- Plantillas -->
+  <script src="asset/JS/main.js" type="module"></script>
+</body>
 
 </html>
