@@ -9,5 +9,4 @@ La pagina web de World Disney, es un sitio web que promueve la animacion, en Wor
 desde casa sin interrupcion, vive, cree y sueña un mundo magico atraves de todo los programas que te ofrece.
 ## Funcionalidad:
 Tiene la funcionalidad de entretener a los niños y familias, con las mejores 
-animaciones que te ofrece nuestra pagina de World Disney
-* [Top Secret]()
+animaciones que te ofrece nuestra pagina de World Disney.
